@@ -55,4 +55,4 @@
      * 文字编辑器vi
      * shell命令、shell script
      * TCP/IP 协议
-     
+## Linux主机规划 -- (虚拟机暂时略过)
