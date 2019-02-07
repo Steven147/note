@@ -30,7 +30,7 @@
 
  * cd 命令
  * python 命令
- ```
+ ``` 
  Steven-MacBook:Python steven$ python3 hello.py
  hello world!
  ```
@@ -61,12 +61,11 @@
 
  > 不同于C语言，整数除法返回的是浮点数
 
-     ```
      >>> 3 / 2 
      1.5
      >>> 3 ** 2 
      9
-     ```
+     
  * 浮点数
      * 计算结果可能是不准确的，原因是计算机内部数字的表示方式
  * 输出：适当使用str函数，保证数字按照期望的方式输出
@@ -113,6 +112,35 @@
 
 ## 4 操作列表
 
- * 
+ * for 循环遍历整个列表
+    ```
+    magicians = ['alice', 'david', 'carolina']
+    for magician in magicians:
+    print(magician) 
+    ```
+     * 使用单数复数名称,帮助你判断处理的是元素还是列表
+     * 避免缩紧错误，不要遗漏冒号
+ * 创建数值列表
+     * 使用函数range()
+     > 函数range()从给出的第一个数字开始数，到第二个数字时停下
+     > 不会包括最后一个数字，属于差一行为
+     * 使用list函数
+     * 统计计算
+         * min max sum
+     * 列表的解析写法
+
+        `squares = [value**2 for value in range(1,11)]`
+ * 使用列表的一部分
+     * 切片
+     > 指定方式和range函数类似
+     * 使用切片进行复制
+     
+        ``` python
+        my_foods = ['pizza', 'falafel', 'carrot cake']
+        friend_foods = my_foods #二者指向同一个列表
+        ```
+
+
+
 
 
