@@ -29,16 +29,22 @@
 ## markdown语法
 
 快速查阅
+
 标题与等级 #
+
 字体字形 *…*
+
 引用 >
+
 分隔符 —
+
 列表 *_
 
+[(链接）Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
 
-[name](address)
 (```)
 代码块
 (```)
+
 或
 `hello`
