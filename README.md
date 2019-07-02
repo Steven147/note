@@ -20,6 +20,10 @@
 
 储存：GitHub + iCloud （从印象笔记迁移）
 
+[bilibili收藏夹](https://space.bilibili.com/17813457/favlist)
+[知乎收藏夹](https://www.zhihu.com/people/lin-shao-qin-32/collections)
+
+
 ## 最后，将所有的电子设备同步起来
 
 尽量使用苹果自带应用
