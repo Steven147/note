@@ -4,6 +4,15 @@
 
 # 开始
 
+[bilibili收藏夹](https://space.bilibili.com/17813457/favlist)
+
+[知乎收藏夹](https://www.zhihu.com/people/lin-shao-qin-32/collections)
+
+[iCloud](https://www.icloud.com/)
+
+[AnywhereAnything](http://lackar.com/aa/?utm_source=mindstore.io)
+
+
 ## 记录笔记的目的是什么？
 
 是为了更好的理解一件事，是为了能不断回忆，温故而知新，是为了养成习惯，更好的约束自己，提升自己。
@@ -20,8 +29,6 @@
 
 储存：GitHub + iCloud （从印象笔记迁移）
 
-[bilibili收藏夹](https://space.bilibili.com/17813457/favlist)
-[知乎收藏夹](https://www.zhihu.com/people/lin-shao-qin-32/collections)
 
 
 ## 最后，将所有的电子设备同步起来
