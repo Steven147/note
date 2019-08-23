@@ -6,7 +6,7 @@
 
 [bilibili收藏夹](https://space.bilibili.com/17813457/favlist)
     
-    [bbilibili-桃子鱼仔ukulele教室](https://space.bilibili.com/90906099/channel/detail?cid=35955)
+* [bbilibili-桃子鱼仔ukulele教室](https://space.bilibili.com/90906099/channel/detail?cid=35955)
 
 [知乎收藏夹](https://www.zhihu.com/people/lin-shao-qin-32/collections)
 
