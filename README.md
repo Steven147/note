@@ -4,8 +4,7 @@
 
 # 开始
 
-[bilibili收藏夹](https://space.bilibili.com/17813457/favlist)
-    [bilibili-桃子鱼仔ukulele教室](https://space.bilibili.com/90906099)
+[bilibili收藏夹](https://space.bilibili.com/17813457/favlist) / [bilibili-桃子鱼仔ukulele教室](https://space.bilibili.com/90906099)
 
 [知乎收藏夹](https://www.zhihu.com/people/lin-shao-qin-32/collections)
 
