@@ -72,13 +72,13 @@ Receiving objects: 100% (3/3), done.
 
 多人协作的工作模式通常是这样：
 
-1. 首先，可以试图用git push origin <branch-name>推送自己的修改；
+1. 首先，可以试图用`git push origin <branch-name>`推送自己的修改；
 
-2. 如果推送失败，则因为远程分支比你的本地更新，需要先用git pull试图合并；
+2. 如果推送失败，则因为远程分支比你的本地更新，需要先用`git pull`试图合并；
 
 3. 如果合并有冲突，则解决冲突，并在本地提交；
 
-4. 没有冲突或者解决掉冲突后，再用git push origin <branch-name>推送
+4. 没有冲突或者解决掉冲突后，再用`git push origin <branch-name>`推送
 
 
 ## markdown语法
