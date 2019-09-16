@@ -37,29 +37,6 @@
 
 ## git 使用
 
-...
-$pwd
-/Users/michael/learngit
-...
-
-## markdown语法
-
-### 标题与等级
-
-***字体字形***
-
-> 引用
-
-分隔符
-
-
-* 列表
-1. 列表
-
-[(链接）Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
-
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
 ``` terminal
 $ pwd
 /Users/michael/learngit 
@@ -84,4 +61,25 @@ $ git reset --hard 1094a
 HEAD is now at 83b0afe append GPL
 
 ```
+https://www.liaoxuefeng.com/files/attachments/919020037470528/0
+
+## markdown语法
+
+### 标题与等级
+
+***字体字形***
+
+> 引用
+
+分隔符
+
+
+* 列表
+1. 列表
+
+[(链接）Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
+
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
 
