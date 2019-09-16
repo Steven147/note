@@ -35,6 +35,13 @@
 
 尽量使用苹果自带应用
 
+## git 使用
+
+...
+$pwd
+/Users/michael/learngit
+...
+
 ## markdown语法
 
 快速查阅
