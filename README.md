@@ -61,7 +61,7 @@ $ git reset --hard 1094a
 HEAD is now at 83b0afe append GPL
 
 ```
-https://www.liaoxuefeng.com/files/attachments/919020037470528/0
+[图示](https://www.liaoxuefeng.com/files/attachments/919020037470528/0)
 
 ## markdown语法
 
