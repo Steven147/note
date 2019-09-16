@@ -60,7 +60,7 @@ $pwd
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-```
+``` terminal
 $ pwd
 /Users/michael/learngit 
 $ git init
@@ -75,7 +75,7 @@ $ git status
 On branch master
 nothing to commit, working tree clean
 
-$ *git reflog*
+$ git reflog
 e475afc HEAD@{1}: reset: moving to HEAD^
 1094adb (HEAD -> master) HEAD@{2}: commit: append GPL
 e475afc HEAD@{3}: commit: add distributed
