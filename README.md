@@ -51,7 +51,7 @@ $pwd
 > 引用
 
 分隔符
-—-
+
 
 * 列表
 1. 列表
@@ -61,6 +61,27 @@ $pwd
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ```
-代码块
+$ pwd
+/Users/michael/learngit 
+$ git init
+Initialized empty Git repository in /Users/michael/learngit/.git/
+
+$ git add readme.txt
+$ git commit -m "wrote a readme file"
+[master (root-commit) eaadf4e] wrote a readme file
+ 1 file changed, 2 insertions(+)
+ create mode 100644 readme.txt
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+$ *git reflog*
+e475afc HEAD@{1}: reset: moving to HEAD^
+1094adb (HEAD -> master) HEAD@{2}: commit: append GPL
+e475afc HEAD@{3}: commit: add distributed
+eaadf4e HEAD@{4}: commit (initial): wrote a readme file
+$ git reset --hard 1094a
+HEAD is now at 83b0afe append GPL
+
 ```
-`代码`
+
