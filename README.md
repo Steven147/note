@@ -35,25 +35,69 @@
 
 尽量使用苹果自带应用
 
+## git 使用
+
+``` terminal
+$ pwd
+/Users/michael/learngit 
+$ git init
+Initialized empty Git repository in /Users/michael/learngit/.git/
+
+$ git add readme.txt
+$ git commit -m "wrote a readme file"
+[master (root-commit) eaadf4e] wrote a readme file
+ 1 file changed, 2 insertions(+)
+ create mode 100644 readme.txt
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+$ git reflog
+e475afc HEAD@{1}: reset: moving to HEAD^
+1094adb (HEAD -> master) HEAD@{2}: commit: append GPL
+e475afc HEAD@{3}: commit: add distributed
+eaadf4e HEAD@{4}: commit (initial): wrote a readme file
+$ git reset --hard 1094a
+HEAD is now at 83b0afe append GPL
+
+$ git push origin master
+$ git clone git@github.com:michaelliao/gitskills.git
+Cloning into 'gitskills'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 3
+Receiving objects: 100% (3/3), done.
+
+```
+[图示](https://www.liaoxuefeng.com/files/attachments/919020037470528/0)
+
+多人协作的工作模式通常是这样：
+
+1. 首先，可以试图用`git push origin <branch-name>`推送自己的修改；
+
+2. 如果推送失败，则因为远程分支比你的本地更新，需要先用`git pull`试图合并；
+
+3. 如果合并有冲突，则解决冲突，并在本地提交；
+
+4. 没有冲突或者解决掉冲突后，再用`git push origin <branch-name>`推送
+
+
 ## markdown语法
 
-快速查阅
+### 标题与等级
 
-标题与等级 #
+***字体字形***
 
-字体字形 *…*
+> 引用
 
-引用 >
+分隔符
 
-分隔符 —
 
-列表 *_
+* 列表
+1. 列表
 
 [(链接）Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
 
-(```)
-代码块
-(```)
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-或
-`hello`
+
+
