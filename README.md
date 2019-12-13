@@ -93,7 +93,7 @@ remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 3
 Receiving objects: 100% (3/3), done.
 
 ```
-[图示](https://www.liaoxuefeng.com/files/attachments/919020037470528/0)
+![图示](https://www.liaoxuefeng.com/files/attachments/919020037470528/0)
 
 多人协作的工作模式通常是这样：
 
