@@ -2,6 +2,8 @@
 
 这里将储存我的所有与计算机学习相关的markdown笔记
 
+![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
+
 # 开始
 
 [bilibili收藏夹](https://space.bilibili.com/17813457/favlist) / [bilibili-桃子鱼仔ukulele教室](https://space.bilibili.com/90906099)
