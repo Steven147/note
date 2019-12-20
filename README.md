@@ -4,6 +4,15 @@
 
 # 开始
 
+## 我的文件
+
+|文件类型|储存|||||
+|-|-|-|-|-|-|
+|大文件|[iCloud](https://www.icloud.com/)|-|-|-|
+|文本文档|[Github-note](https://github.com/Steven147/note)|-|-|-|-|
+|手写文档|GoodNotes|-|-|-|-|
+
+
 [bilibili收藏夹](https://space.bilibili.com/17813457/favlist) / [bilibili-桃子鱼仔ukulele教室](https://space.bilibili.com/90906099)
 
 [知乎收藏夹](https://www.zhihu.com/people/lin-shao-qin-32/collections)
