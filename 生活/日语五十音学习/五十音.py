@@ -29,18 +29,19 @@ l2.pack()
 def new():
     global v1, v2,values1, values2, show
     valid = False
-    while(not valid):
+    while not valid:
         v1 = random.choice(values1)
         v2 = random.choice(values2)
         #71yi 73ye 91wi 92wu 93we
-        if(v1*5+v2 == 36 or v1*5+v2 == 38 or v1*5+v2 == 46 or v1*5+v2 == 47 or v1*5+v2 == 48): pass
+        if(v1*5+v2 == 36 or v1*5+v2 == 38 or v1*5+v2 == 46 or v1*5+v2 == 47 or v1*5+v2 == 48): 
+            pass
         else:
-            valid = True;
+            valid = True
     if(v1==0):
         var.set(alphabet2[v2])
     elif(v1*5+v2==16):
         var.set('ch'+alphabet2[v2])
-    elif(v1*5+v2==16):
+    elif(v1*5+v2==17):
         var.set('ts'+alphabet2[v2])
     else:
         var.set(alphabet1[v1]+alphabet2[v2])
