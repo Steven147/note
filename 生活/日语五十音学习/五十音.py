@@ -57,10 +57,12 @@ def showResult():
 def alwaysShow():
     global show
     if(not show): 
-        var3.set('Always Show')
+        var3.set("Don't Show")
+        var2.set(mystr[v1*5+v2]+' '+mystr2[v1*5+v2])
         show = not show
     else:
-        var3.set('Not Show')
+        var3.set('Always Show')
+        var2.set('')
         show = not show
 
 
