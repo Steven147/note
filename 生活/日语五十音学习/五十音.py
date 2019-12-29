@@ -88,10 +88,6 @@ var3 = tkinter.StringVar()
 var3.set('Always Show')
 b3 = tkinter.Button(windows, textvariable = var3, width = 15, height=2, command=alwaysShow)
 b3.pack()
-
-
-
-
 windows.mainloop()
 
 
