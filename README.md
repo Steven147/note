@@ -2,7 +2,7 @@
 
 这里将储存我的所有的markdown笔记
 
-# 开始
+## 开始
 
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
@@ -11,7 +11,7 @@
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
-## 我的文件
+### 我的文件
 
 |文件类型|储存地址|
 |-|-|
@@ -20,7 +20,7 @@
 |程序文件|[Github-cpp](https://github.com/Steven147/cpp)|
 |手写文档|GoodNotes|
 
-## 我的应用
+### 我的应用
 
 |应用|用途|
 |-|-|
@@ -28,31 +28,29 @@
 |GoodNotes|手写文本编辑|
 
 
-## 记录笔记的目的是什么？
+### 记录笔记的目的
 
 是为了更好的理解一件事，是为了能不断回忆，温故而知新，是为了养成习惯，更好的约束自己，提升自己。
 
-## 那么记录笔记的要点又是什么呢？
+### 记录笔记的要点？
 
 保持简洁明了。记录方式简洁（网页github、goodnote）；分类方式简洁（学习工作、生活）
 
 其次，要不断浏览，修改和归档
 
-## 那么多信息，那么多需要记录的东西，要如何记录和储存呢？
+### 信息如何记录和储存？
 
 记录：GitHub.com + goodnote
 
 储存：GitHub + iCloud （从印象笔记迁移）
 
-
-
-## 最后，将所有的电子设备同步起来
+### 最后，同步
 
 尽量使用苹果自带应用
 
 ## git 使用
 
-``` terminal
+``` 
 $ pwd
 /Users/michael/learngit 
 $ git init
@@ -95,5 +93,3 @@ Receiving objects: 100% (3/3), done.
 3. 如果合并有冲突，则解决冲突，并在本地提交；
 
 4. 没有冲突或者解决掉冲突后，再用`git push origin <branch-name>`推送
-
-
