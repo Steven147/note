@@ -10,22 +10,21 @@
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-
 ### 我的文件
 
-|文件类型|储存地址|
-|-|-|
-|大文件|[iCloud](https://www.icloud.com/)|
-|文本文档|[Github-note](https://github.com/Steven147/note)|
-|程序文件|[Github-cpp](https://github.com/Steven147/cpp)|
-|手写文档|GoodNotes|
+| 文件类型 | 储存地址                                         |
+| -------- | ------------------------------------------------ |
+| 大文件   | [iCloud](https://www.icloud.com/)                |
+| 文本文档 | [Github-note](https://github.com/Steven147/note) |
+| 程序文件 | [Github-cpp](https://github.com/Steven147/cpp)   |
+| 手写文档 | GoodNotes                                        |
 
 ### 我的应用
 
-|应用|用途|
-|-|-|
-|VSCode|文字，代码编辑|
-|GoodNotes|手写文本编辑|
+| 应用      | 用途           |
+| --------- | -------------- |
+| VSCode    | 文字，代码编辑 |
+| GoodNotes | 手写文本编辑   |
 
 
 ### 记录笔记的目的
