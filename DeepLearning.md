@@ -48,3 +48,22 @@
          * 目的：改善D，使一增大二减小
        * 另一方面：进化生成模型G，尽量生成与真实数据相似的样本
          * G(z) 噪声z到生成样本空间的映射
+
+### Tensorflow 使用
+
+1. 安装
+   1. 网址 [TensorFlow](https://tensorflow.google.cn/)
+   2. 软件需求：python, pip, virtualenv\conda
+   3. 首次安装的版本可能并不契合网络资源所要求的tensorflow和python版本，因此可以使用conda创建虚拟环境选择合适的版本。
+
+   ``` shell
+   > conda create -n venv pip python=3.7  # select python version
+   > source activate venv
+   (venv) > pip install --ignore-installed --upgrade (packageURL)
+   (venv) > pip install --upgrade tensorflow
+   (venv) > source deactivate
+   ```
+
+      [package location](https://tensorflow.google.cn/install/pip#package-location)
+2. 使用
+   1. 
