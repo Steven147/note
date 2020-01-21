@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.7)  18 DEC 2019 03:42
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.1.20)  21 JAN 2020 09:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/steven/Documents/note/概率统计
-(/Users/steven/Documents/note/概率统计.tex
+**概率统计
+(./概率统计.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexart.cls (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2019-05-07 L3 programming layer (loader) 
@@ -460,7 +460,8 @@ File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen185
 \Gin@req@width=\dimen186
-) (./概率统计.aux)
+)
+No file 概率统计.aux.
 \openout1 = `概率统计.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -479,7 +480,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
- ABD: EverySelectfont initializing macros
+ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 6.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -561,12 +562,12 @@ LaTeX Warning: Empty `thebibliography' environment on input line 252.
 
 [10] (./概率统计.aux) ) 
 Here is how much of TeX's memory you used:
- 17280 strings out of 492916
- 401535 string characters out of 6133345
+ 17277 strings out of 492916
+ 401432 string characters out of 6133345
  460412 words of memory out of 5000000
  21205 multiletter control sequences out of 15000+600000
  537233 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,7n,74p,405b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,7n,74p,376b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 概率统计.pdf (10 pages).
