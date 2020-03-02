@@ -4,6 +4,8 @@
 
 ## 开始
 
+https://kopcloud-com.oss-cn-hongkong.aliyuncs.com-cwShbgByVDuE.R4
+
 ``` bash
 > find . -name ".git" | xargs rm -Rf # 删除git仓库
 ```
